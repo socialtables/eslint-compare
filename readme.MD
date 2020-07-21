@@ -12,7 +12,7 @@
 
 # Getting Started
 ----------
-This shows different ESLint configs. 
+This project allows you to compare different ESLint configs. 
 
 
 ## To add new configs:
@@ -30,7 +30,7 @@ npm install
 npm run start
 ```
 
-Deploy
+## Deploy
 ```
 npm run build
 npm run deploy
