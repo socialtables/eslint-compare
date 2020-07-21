@@ -10,12 +10,12 @@
 
 
 
-#Getting Started
+# Getting Started
 ----------
 This shows different ESLint configs. 
 
 
-##To add new configs:
+## To add new configs:
 1. Export config using:
 ```
 npx eslint --print-config src > yourconfig.json
@@ -24,7 +24,7 @@ npx eslint --print-config src > yourconfig.json
 3. Add a picture to ./src/img
 4. Add a your new config section to the list of configs in ./src/App.js
 
-##Develop
+## Develop
 ```
 npm install
 npm run start
