@@ -86,6 +86,11 @@
       "jsx"
     ]
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "kcd-scripts pre-commit"
+    }
+  },
   "babel": {
     "presets": [
       "react-app"

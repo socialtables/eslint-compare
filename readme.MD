@@ -9,9 +9,7 @@
 
 
 
-
 # Getting Started
-----------
 This project allows you to compare different ESLint configs. 
 
 
