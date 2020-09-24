@@ -84,6 +84,8 @@ function getTitleText(rule) {
     const rules = rule.slice(1)
     if (rules.length === 1) {
       return formatRule(rules[0])
+    } else if (rules.length === 0) {
+      return null
     }
     return formatRule(rules)
   }
