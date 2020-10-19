@@ -560,6 +560,10 @@
         "description": "disallow specified identifiers"
       },
       {
+        "name": "id-denylist",
+        "description": "formerly id-blacklist; disallow specified identifiers"
+      },
+      {
         "name": "id-length",
         "description": "enforce minimum and maximum identifier lengths"
       },
