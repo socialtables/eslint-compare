@@ -85,9 +85,16 @@ export default class App extends Component {
       //   config: {},
       // },
       {
-        name: 'socialtables',
+        name: 'socialtables 2',
         icon: require('./img/socialtables.png'),
-        path: 'socialtables.json',
+        path: 'socialtables.2.4.0.json',
+        enabled: false,
+        config: {},
+      },
+      {
+        name: 'socialtables 3',
+        icon: require('./img/socialtables.png'),
+        path: 'socialtables.3.0.0.json',
         enabled: true,
         config: {},
       },
